@@ -746,6 +746,7 @@ body.dark-theme .theme-toggle-indicator {
   display: flex;
   width: 100%;
   gap: 10px;
+  min-height: 850px;
 }
 .title {
   color: black;
